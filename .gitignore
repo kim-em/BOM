@@ -1,0 +1,13 @@
+pngs/
+data/
+venv/
+nci_vol/
+.build/
+results/
+comparison_output/
+calibration.png
+__pycache__/
+*.pyc
+/tmp/
+*.png
+!IDR403.*.png
